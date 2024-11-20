@@ -17,7 +17,7 @@
   - Motoko
   - Solidity
 ---
-- **Web Development**
+- **Web Development** 
   - **Front-end development**
     - HTML5
     - CSS3
