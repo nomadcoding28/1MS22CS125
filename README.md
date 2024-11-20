@@ -30,6 +30,8 @@
     -  MYSQL 
   - **Frame work**
     - Reactjs
+    - **Cloud**
+    - AWS
 ---   
 - **Soft Skills:**
   - Communication
