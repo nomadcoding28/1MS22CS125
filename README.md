@@ -6,8 +6,10 @@
 ⋄ **Email:** [sasumanakusha@gmail.com](mailto:sasumanakusha@gmail.com) ⋄ **LinkedIn:** [Kushal Sasumana](https://www.linkedin.com/in/kushalsasumana) ⋄ **GitHub:** [github.com/kushal](https://github.com/yourusername)
 ---
 ## Skills
+- **Data Stuctures And Algorithms**
+--- 
 - **Programing Languages:**
-  - Python(Data structure)
+  - Python
   - Java
   - C
   - Dart
